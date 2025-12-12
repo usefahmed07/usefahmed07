@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **usefahmed07/usefahmed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+#  About Me:
 I'm Youssef Ahmed, 2rd year Computer Science Student, Joiner Software Engineer, Pupil on Codeforces, Interested in Full-Stack Development, AI, and Core Computer Science like Database, Networks, OS, and other of Science
 
 
