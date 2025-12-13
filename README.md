@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #  About Me:
-I'm Youssef Ahmed, 2rd year Computer Science Student, Joiner Software Engineer, Pupil on Codeforces, Interested in Full-Stack Development, AI, and Core Computer Science like Database, Networks, OS, and other of Science
+I'm Youssef Ahmed, 2rd year Computer Science Student, Joiner Software Engineer, Interested in Full-Stack Development, AI, and Core Computer Science like Database, Networks, OS, and other of Science
 
 
 ## 🌐 Socials:
