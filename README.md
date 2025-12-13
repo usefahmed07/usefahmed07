@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 I'm Youssef Ahmed, 2rd year Computer Science Student, Joiner Software Engineer, Interested in Full-Stack Development, AI, and Core Computer Science like Database, Networks, OS, and other of Science
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-hamza-b13658290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoubwDozAR6G2vbKbFPTyHw%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/usif74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.ahmed.hamaza@gmail.com) 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
